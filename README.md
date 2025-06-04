@@ -28,3 +28,14 @@ This script assumes the log format is **Common Log Format (CLF)** or **Combined 
 
 ```bash
 pip install pandas
+
+##Learning Goals
+Log file parsing and regular expressions
+
+Time-based data aggregation with pandas
+
+Error analysis and frequency distributions
+
+Practical file I/O and data cleansing
+
+Building real-world mini projects
