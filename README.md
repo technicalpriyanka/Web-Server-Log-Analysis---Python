@@ -22,6 +22,7 @@ This script assumes the log format is **Common Log Format (CLF)** or **Combined 
 
 - Python 3.8+
 - pandas
+- Make sure you have Python and the required libraries installed:
 
 ### 🔧 Install
 
